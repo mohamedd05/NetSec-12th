@@ -39,7 +39,7 @@
 
 ### firewall rule configuration
 <p align="center">
-  <img src="media/image5.png">
+  <img src="image5.png">
 </p>
 <p align="center">
   <img src="image6.png">
